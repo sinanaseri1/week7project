@@ -1,4 +1,3 @@
-// this file is for routes, end points
 const express = require("express")
 const router = express.Router(); 
 const books = require("./booksController")
